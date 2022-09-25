@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac731db4-6371-4d4c-91e2-42771f0de136" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/multi-root/api/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-root/api/src/main/java/ApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-root/api/src/main/java/com/example/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-root/core/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-root/core/src/main/java/com/example/TestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/root.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/root.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-module/.idea/modules/multi-module.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-module/api/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-module/api/src/main/java/com/example/ApiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-module/api/src/main/java/com/example/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-module/api/src/src/main/java/com/example/ApiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-module/api/src/src/main/java/com/example/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-module/core/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-module/core/src/main/java/com/example/TestService.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FGO1DIqHEQjk2kBuS5LogCDBmE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac731db4-6371-4d4c-91e2-42771f0de136" name="Changes" comment="" />
+      <created>1664114739771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664114739771</updated>
+    </task>
+    <servers />
+  </component>
+</project>
