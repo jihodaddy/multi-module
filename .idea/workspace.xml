@@ -4,27 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac731db4-6371-4d4c-91e2-42771f0de136" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/multi-root/api/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-root/api/src/main/java/ApiApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-root/api/src/main/java/com/example/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-root/core/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-root/core/src/main/java/com/example/TestService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/root.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/root.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/multi-module/.idea/modules/multi-module.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/multi-module/api/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/multi-module/api/src/main/java/com/example/ApiApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/multi-module/api/src/main/java/com/example/TestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/multi-module/api/src/src/main/java/com/example/ApiApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/multi-module/api/src/src/main/java/com/example/TestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/multi-module/core/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/multi-module/core/src/main/java/com/example/TestService.java" beforeDir="false" />
+    <list default="true" id="ac731db4-6371-4d4c-91e2-42771f0de136" name="Changes" comment="multi module">
+      <change afterPath="$PROJECT_DIR$/multi-maven/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-maven/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-maven/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-maven/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-maven/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-maven/src/main/java/com/example/multimaven/MultiMavenApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-maven/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-maven/src/test/java/com/example/multimaven/MultiMavenApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +28,19 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FGO1DIqHEQjk2kBuS5LogCDBmE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/workSpace/multi-module",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
@@ -59,6 +53,37 @@
       <option name="presentableId" value="Default" />
       <updated>1664114739771</updated>
     </task>
+    <task id="LOCAL-00001" summary="multi module">
+      <created>1664115125582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664115125582</updated>
+    </task>
+    <task id="LOCAL-00002" summary="multi module">
+      <created>1664115188325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664115188325</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="multi module" />
+    <option name="LAST_COMMIT_MESSAGE" value="multi module" />
   </component>
 </project>
