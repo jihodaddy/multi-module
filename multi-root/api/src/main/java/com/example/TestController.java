@@ -1,5 +1,7 @@
 package com.example;
 
+import com.example.exception.CustomException;
+import com.example.exception.ErrorCode;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -12,4 +14,5 @@ public class TestController {
     public String test() {
         return testService.test();
     }
+
 }
