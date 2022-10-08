@@ -29,6 +29,11 @@ subprojects {
 
     dependencies {
         compileOnly 'org.projectlombok:lombok:1.18.16'
+        compileOnly 'com.fasterxml.jackson.core:jackson-core:2.13.4'
+        compileOnly 'com.fasterxml.jackson.core:jackson-databind:2.13.4'
+        compileOnly 'org.aspectj:aspectjrt:1.9.9.1'
+        compileOnly 'javax.servlet:servlet-api:2.5'
+
         annotationProcessor 'org.projectlombok:lombok:1.18.16'
         testImplementation 'org.springframework.boot:spring-boot-starter-test'
         testImplementation('org.springframework.boot:spring-boot-starter-test') {
